@@ -1,0 +1,14 @@
+# Power BI
+*.pbix.autorecover
+
+# Python
+__pycache__/
+*.pyc
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+venv/
