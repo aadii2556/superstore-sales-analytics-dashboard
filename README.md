@@ -8,6 +8,8 @@
 
 An enterprise-grade Power BI dashboard designed to analyze retail sales performance, profitability trends, customer segmentation, and regional business metrics through interactive executive-level reporting.
 
+# [[Live Preview](https://app.powerbi.com/view?r=eyJrIjoiNjM5MDc0YTYtNTc3OS00NGRhLWE2OTMtZWE4YmU1OTRjMjU3IiwidCI6IjU5ZWI1MThjLTc1MjgtNDBhNy04ZDhjLWFkZGMxZjI5YjBlYSJ9 "PowerBI Live")]
+
 ![Project 01 SS](/documentation/Project01SS.png)
 
 ---
